@@ -1,1 +1,1 @@
-# Offline-Email-Sender
+This is an offline email sender. Offline in the sense that you can send emails direct from the application without logging in to your email. That being said this only works for Gmail's and for the password you must create an application specific password for your gmail account and login with that as your password on the application. The .exe is the download for this application and as of 2023-08-27 it is for windows only.# Offline-Email-Sender
